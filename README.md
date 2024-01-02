@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ToldoDesign128
 - 👀 I’m interested in Graphic Design, Typeface Design, UI/UX and Coding
-- 🌱 I’m currently learning Design and multychanel communication at TAG "Trentino Alta Formazione Grafica"
+- 🌱 I’m currently work to create amazing website
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG at fede.toldo
+- 📫 How to reach me at federicotoldo.com
 
 <!---
 ToldoDesign128/ToldoDesign128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
